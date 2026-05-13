@@ -47,13 +47,24 @@ exports.handler = async (event) => {
         return { statusCode: response.status, body: JSON.stringify({ error: data.message || 'API error' }) };
       }
 
-      const courses = (data.courses || []).slice(0, 8).map(c => ({
-        id:    c.id,
-        name:  c.club_name || c.name,
-        city:  c.location?.city  || c.city  || '',
-        state: c.location?.state || c.state || '',
-        holes: c.num_holes || c.holes || 18,
-      }));
+      const courses = (data.courses || []).slice(0, 8).map(c => {
+        // Build a display name that disambiguates courses with the same club name
+        // e.g. "The Villages Palmer Legends" has multiple 18-hole combos
+        // course_name contains the specific combo e.g. "Laurel Valley/Riley Grove"
+        const courseName = c.course_name || '';
+        const clubName   = c.club_name   || c.name || '';
+        // Only show subtitle if it adds info beyond the club name
+        const subtitle = courseName && courseName !== clubName ? courseName : '';
+
+        return {
+          id:       c.id,
+          name:     clubName,
+          subtitle: subtitle,
+          city:     c.location?.city  || c.city  || '',
+          state:    c.location?.state || c.state || '',
+          holes:    c.num_holes || c.holes || 18,
+        };
+      });
 
       return {
         statusCode: 200,

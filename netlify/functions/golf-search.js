@@ -5,9 +5,8 @@ exports.handler = async (event) => {
     return { statusCode: 405, body: 'Method not allowed' };
   }
 
-  const query    = event.queryStringParameters?.q     || '';
-  const courseId = event.queryStringParameters?.id    || '';
-  const debug    = event.queryStringParameters?.debug || '';
+  const query    = event.queryStringParameters?.q  || '';
+  const courseId = event.queryStringParameters?.id || '';
 
   if (!query && !courseId) {
     return { statusCode: 400, body: JSON.stringify({ error: 'Missing query parameter' }) };
@@ -30,27 +29,13 @@ exports.handler = async (event) => {
         return { statusCode: response.status, body: JSON.stringify({ error: data.message || 'API error' }) };
       }
 
-      // Debug mode — return raw response so we can see field names
-      if (debug === '1') {
-        return {
-          statusCode: 200,
-          headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
-          body: JSON.stringify({
-            _debug: true,
-            topLevelKeys: Object.keys(data),
-            teesType: typeof data.tees,
-            teesIsArray: Array.isArray(data.tees),
-            teesKeys: data.tees ? Object.keys(data.tees) : null,
-            firstTeeSample: data.tees ? (Array.isArray(data.tees) ? data.tees[0] : Object.values(data.tees)[0]) : null,
-            raw: data
-          })
-        };
-      }
+      // ✅ API wraps everything in a "course" key
+      const course = data.course || data;
 
       return {
         statusCode: 200,
         headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
-        body: JSON.stringify(normalizeCourseDetail(data))
+        body: JSON.stringify(normalizeCourseDetail(course))
       };
 
     } else {
@@ -82,8 +67,11 @@ exports.handler = async (event) => {
   }
 };
 
-function normalizeCourseDetail(data) {
-  const teesObj = data.tees || {};
+// API structure: data.course.tees.female = [...] and data.course.tees.male = [...]
+// Each tee: { tee_name, course_rating, slope_rating, total_yards, par_total, holes: [{par, yardage}] }
+
+function normalizeCourseDetail(course) {
+  const teesObj = course.tees || {};
   const allTees = [];
 
   const maleTees   = Array.isArray(teesObj.male)   ? teesObj.male   : teesObj.male   ? Object.values(teesObj.male)   : [];
@@ -92,12 +80,13 @@ function normalizeCourseDetail(data) {
   maleTees.forEach(t   => allTees.push({ ...t, _gender: 'male'   }));
   femaleTees.forEach(t => allTees.push({ ...t, _gender: 'female' }));
 
+  // Fallback if tees is a flat array
   if (!allTees.length && Array.isArray(teesObj)) {
     teesObj.forEach(t => allTees.push({ ...t, _gender: t.gender || 'male' }));
   }
 
   const tees = allTees.map(t => ({
-    name:   t.tee_name || t.name || 'Unknown',
+    name:   t.tee_name   || t.name || 'Unknown',
     gender: t._gender,
     rating: parseFloat(t.course_rating || t.front_course_rating) || null,
     slope:  parseInt(t.slope_rating    || t.front_slope_rating)  || null,
@@ -107,11 +96,11 @@ function normalizeCourseDetail(data) {
   }));
 
   return {
-    id:       data.id,
-    name:     data.club_name || data.course_name || data.name || '',
-    city:     data.location?.city  || data.city  || '',
-    state:    data.location?.state || data.state || '',
-    numHoles: data.num_holes || 18,
+    id:       course.id,
+    name:     course.club_name  || course.course_name || course.name || '',
+    city:     course.location?.city  || course.city  || '',
+    state:    course.location?.state || course.state || '',
+    numHoles: course.num_holes  || 18,
     tees,
   };
 }

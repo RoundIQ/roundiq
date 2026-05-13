@@ -5,8 +5,9 @@ exports.handler = async (event) => {
     return { statusCode: 405, body: 'Method not allowed' };
   }
 
-  const query    = event.queryStringParameters?.q  || '';
-  const courseId = event.queryStringParameters?.id || '';
+  const query    = event.queryStringParameters?.q     || '';
+  const courseId = event.queryStringParameters?.id    || '';
+  const debug    = event.queryStringParameters?.debug || '';
 
   if (!query && !courseId) {
     return { statusCode: 400, body: JSON.stringify({ error: 'Missing query parameter' }) };
@@ -27,6 +28,23 @@ exports.handler = async (event) => {
 
       if (!response.ok) {
         return { statusCode: response.status, body: JSON.stringify({ error: data.message || 'API error' }) };
+      }
+
+      // Debug mode — return raw response so we can see field names
+      if (debug === '1') {
+        return {
+          statusCode: 200,
+          headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+          body: JSON.stringify({
+            _debug: true,
+            topLevelKeys: Object.keys(data),
+            teesType: typeof data.tees,
+            teesIsArray: Array.isArray(data.tees),
+            teesKeys: data.tees ? Object.keys(data.tees) : null,
+            firstTeeSample: data.tees ? (Array.isArray(data.tees) ? data.tees[0] : Object.values(data.tees)[0]) : null,
+            raw: data
+          })
+        };
       }
 
       return {
@@ -68,14 +86,12 @@ function normalizeCourseDetail(data) {
   const teesObj = data.tees || {};
   const allTees = [];
 
-  // API returns tees split by gender: { male: [...], female: [...] }
   const maleTees   = Array.isArray(teesObj.male)   ? teesObj.male   : teesObj.male   ? Object.values(teesObj.male)   : [];
   const femaleTees = Array.isArray(teesObj.female) ? teesObj.female : teesObj.female ? Object.values(teesObj.female) : [];
 
   maleTees.forEach(t   => allTees.push({ ...t, _gender: 'male'   }));
   femaleTees.forEach(t => allTees.push({ ...t, _gender: 'female' }));
 
-  // Fallback if tees is a flat array
   if (!allTees.length && Array.isArray(teesObj)) {
     teesObj.forEach(t => allTees.push({ ...t, _gender: t.gender || 'male' }));
   }

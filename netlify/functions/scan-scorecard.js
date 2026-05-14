@@ -95,7 +95,11 @@ Only include tee names that actually appear on the card. Common tee color names:
     if (!response.ok) {
       return {
         statusCode: response.status,
-        body: JSON.stringify({ error: data.error?.message || 'Claude API error' })
+        body: JSON.stringify({
+          error: data.error?.message || 'Claude API error',
+          type: data.error?.type || 'unknown',
+          detail: JSON.stringify(data)
+        })
       };
     }
 

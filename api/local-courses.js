@@ -30,11 +30,11 @@ export default function handler(req, res) {
     return res.status(200).json(course);
   }
 
-  // Search by name — all query words must appear in searchable fields
+  // Search by name — simple substring match on all fields
   const results = courses.filter(c => {
     const searchable = [c.name, c.subtitle, c.city, c.state]
       .filter(Boolean).join(' ').toLowerCase();
-    return query.split(' ').filter(Boolean).every(word => searchable.includes(word));
+    return searchable.includes(query);
   }).slice(0, 8).map(c => ({
     id:       c.id,
     name:     c.name,

@@ -1,108 +1,121 @@
 // RoundIQ — Vercel API Function
-// File: api/golf-search.js
+// File: api/scan-scorecard.js
 
 export default async function handler(req, res) {
-  if (req.method !== 'GET') {
+  if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const query    = req.query.q  || '';
-  const courseId = req.query.id || '';
-
-  if (!query && !courseId) {
-    return res.status(400).json({ error: 'Missing query parameter' });
+  const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY;
+  if (!ANTHROPIC_KEY) {
+    return res.status(500).json({ error: 'Anthropic API key not configured' });
   }
 
-  const API_KEY = process.env.GOLF_API_KEY;
-  if (!API_KEY) {
-    return res.status(500).json({ error: 'API key not configured' });
+  let body;
+  try {
+    body = typeof req.body === 'string' ? JSON.parse(req.body) : req.body;
+  } catch {
+    return res.status(400).json({ error: 'Invalid JSON body' });
   }
+
+  const { image, mimeType = 'image/jpeg', side = 'front' } = body;
+
+  if (!image) {
+    return res.status(400).json({ error: 'Missing image data' });
+  }
+
+  const sideContext = side === 'back'
+    ? 'This is the BACK of the scorecard showing holes 10-18.'
+    : side === 'full'
+    ? 'This scorecard may show all 18 holes.'
+    : 'This is the FRONT of the scorecard showing holes 1-9.';
+
+  const prompt = `You are reading a golf scorecard image. ${sideContext}
+
+Extract the hole-by-hole data and return ONLY a valid JSON object — no explanation, no markdown, no backticks.
+
+Rules:
+- Extract par and yardage for each hole visible
+- If multiple yardage rows exist (different tees), extract ALL tee yardages
+- Number holes sequentially as they appear on the card
+- If the card shows holes 10-18, number them 10 through 18
+- If a value is illegible, use null
+- Return ONLY the JSON object below
+
+Required JSON format:
+{
+  "holesFound": <number of holes detected, either 9 or 18>,
+  "holes": [
+    { "number": 1, "par": 4, "yards": { "black": 425, "blue": 398, "white": 365, "red": 310 } },
+    { "number": 2, "par": 3, "yards": { "black": 185, "blue": 172, "white": 155, "red": 128 } }
+  ],
+  "teeNames": ["black", "blue", "white", "red"]
+}
+
+Only include tee names that actually appear on the card. Common tee color names: black, gold, blue, white, green, red, silver, copper, combo, friendly.`;
 
   try {
-    let url, response, data;
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': ANTHROPIC_KEY,
+        'anthropic-version': '2023-06-01',
+      },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-5-20251001',
+        max_tokens: 1500,
+        messages: [{
+          role: 'user',
+          content: [
+            {
+              type: 'image',
+              source: { type: 'base64', media_type: mimeType, data: image }
+            },
+            {
+              type: 'text',
+              text: prompt
+            }
+          ]
+        }]
+      })
+    });
 
-    if (courseId) {
-      url = `https://api.golfcourseapi.com/v1/courses/${courseId}`;
-      response = await fetch(url, { headers: { 'Authorization': `Key ${API_KEY}` } });
-      data = await response.json();
+    const data = await response.json();
 
-      if (!response.ok) {
-        return res.status(response.status).json({ error: data.message || 'API error' });
-      }
-
-      const course = data.course || data;
-      return res.status(200).json(normalizeCourseDetail(course));
-
-    } else {
-      url = `https://api.golfcourseapi.com/v1/search?search_query=${encodeURIComponent(query)}`;
-      response = await fetch(url, { headers: { 'Authorization': `Key ${API_KEY}` } });
-      data = await response.json();
-
-      if (!response.ok) {
-        return res.status(response.status).json({ error: data.message || 'API error' });
-      }
-
-      const courses = (data.courses || []).slice(0, 8).map(c => {
-        const courseName = c.course_name || '';
-        const clubName   = c.club_name   || c.name || '';
-        const subtitle   = courseName && courseName !== clubName ? courseName : '';
-        return {
-          id:       c.id,
-          name:     clubName,
-          subtitle: subtitle,
-          city:     c.location?.city  || c.city  || '',
-          state:    c.location?.state || c.state || '',
-          holes:    c.num_holes || c.holes || 18,
-        };
+    if (!response.ok) {
+      return res.status(response.status).json({
+        error: data.error?.message || 'Claude API error',
+        type: data.error?.type || 'unknown',
+        detail: JSON.stringify(data)
       });
-
-      return res.status(200).json({ courses });
     }
+
+    const text = data.content?.[0]?.text || '';
+    let parsed;
+
+    try {
+      const clean = text.replace(/```json|```/g, '').trim();
+      parsed = JSON.parse(clean);
+    } catch {
+      return res.status(422).json({
+        error: 'Could not parse scorecard — try a clearer photo',
+        raw: text
+      });
+    }
+
+    if (!parsed.holes || !Array.isArray(parsed.holes)) {
+      return res.status(422).json({ error: 'No holes detected — try a clearer photo' });
+    }
+
+    return res.status(200).json({
+      holesFound: parsed.holesFound || parsed.holes.length,
+      holes: parsed.holes,
+      teeNames: parsed.teeNames || [],
+      side,
+    });
 
   } catch (err) {
     return res.status(500).json({ error: 'Server error', detail: err.message });
   }
-}
-
-function normalizeCourseDetail(course) {
-  const teesObj = course.tees || {};
-  const allTees = [];
-
-  const maleTees   = Array.isArray(teesObj.male)   ? teesObj.male   : teesObj.male   ? Object.values(teesObj.male)   : [];
-  const femaleTees = Array.isArray(teesObj.female) ? teesObj.female : teesObj.female ? Object.values(teesObj.female) : [];
-
-  maleTees.forEach(t   => allTees.push({ ...t, _gender: 'male'   }));
-  femaleTees.forEach(t => allTees.push({ ...t, _gender: 'female' }));
-
-  if (!allTees.length && Array.isArray(teesObj)) {
-    teesObj.forEach(t => allTees.push({ ...t, _gender: t.gender || 'male' }));
-  }
-
-  const tees = allTees.map(t => ({
-    name:   t.tee_name || t.name || 'Unknown',
-    gender: t._gender,
-    rating: parseFloat(t.course_rating || t.front_course_rating) || null,
-    slope:  parseInt(t.slope_rating    || t.front_slope_rating)  || null,
-    yards:  parseInt(t.total_yards     || t.yardage)             || null,
-    par:    parseInt(t.par_total)                                 || null,
-    holes:  buildHoleData(t.holes || []),
-  }));
-
-  return {
-    id:       course.id,
-    name:     course.club_name  || course.course_name || course.name || '',
-    city:     course.location?.city  || course.city  || '',
-    state:    course.location?.state || course.state || '',
-    numHoles: course.num_holes  || 18,
-    tees,
-  };
-}
-
-function buildHoleData(holes) {
-  if (!holes || !holes.length) return null;
-  return holes.map((h, i) => ({
-    number: h.hole_number || h.number || (i + 1),
-    par:    parseInt(h.par)                              || 4,
-    yards:  parseInt(h.yardage || h.yards || h.distance) || null,
-  }));
 }

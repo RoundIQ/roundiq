@@ -3306,5 +3306,616 @@
         ]
       }
     ]
+  },
+  {
+    "id": "local-alpine-cc-ri",
+    "name": "Alpine Country Club",
+    "subtitle": "Cranston, Rhode Island",
+    "city": "Cranston",
+    "state": "RI",
+    "holes": 18,
+    "local": true,
+    "tees": [
+      {
+        "name": "Gold",
+        "gender": "male",
+        "rating": 73.2,
+        "slope": 129,
+        "yards": 6864,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 334
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 521
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 334
+          },
+          {
+            "number": 4,
+            "par": 5,
+            "yards": 522
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 453
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 226
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 403
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 555
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": 177
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 511
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 400
+          },
+          {
+            "number": 12,
+            "par": 3,
+            "yards": 189
+          },
+          {
+            "number": 13,
+            "par": 4,
+            "yards": 425
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 401
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 173
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 393
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 409
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 438
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "gender": "male",
+        "rating": 72.0,
+        "slope": 128,
+        "yards": 6628,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 327
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 510
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 325
+          },
+          {
+            "number": 4,
+            "par": 5,
+            "yards": 513
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 442
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 221
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 353
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 540
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": 160
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 505
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 371
+          },
+          {
+            "number": 12,
+            "par": 3,
+            "yards": 177
+          },
+          {
+            "number": 13,
+            "par": 4,
+            "yards": 407
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 391
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 173
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 388
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 397
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 428
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "gender": "male",
+        "rating": 70.7,
+        "slope": 124,
+        "yards": 6317,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 487
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 310
+          },
+          {
+            "number": 4,
+            "par": 5,
+            "yards": 503
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 425
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 200
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 335
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 525
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": 142
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 490
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 350
+          },
+          {
+            "number": 12,
+            "par": 3,
+            "yards": 156
+          },
+          {
+            "number": 13,
+            "par": 4,
+            "yards": 390
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 367
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 150
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 374
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 376
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 420
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "gender": "female",
+        "rating": 74.9,
+        "slope": 127,
+        "yards": 6317,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 487
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 310
+          },
+          {
+            "number": 4,
+            "par": 5,
+            "yards": 503
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 425
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 200
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 335
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 525
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": 142
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 490
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 350
+          },
+          {
+            "number": 12,
+            "par": 3,
+            "yards": 156
+          },
+          {
+            "number": 13,
+            "par": 4,
+            "yards": 390
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 367
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 150
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 374
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 376
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 420
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "gender": "male",
+        "rating": 68.6,
+        "slope": 122,
+        "yards": 5964,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 300
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 410
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 305
+          },
+          {
+            "number": 4,
+            "par": 5,
+            "yards": 480
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 398
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 180
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 315
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 508
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": 120
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 485
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 348
+          },
+          {
+            "number": 12,
+            "par": 3,
+            "yards": 150
+          },
+          {
+            "number": 13,
+            "par": 4,
+            "yards": 375
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 348
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 138
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 340
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 350
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 414
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "gender": "female",
+        "rating": 73.1,
+        "slope": 117,
+        "yards": 5964,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 300
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 410
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 305
+          },
+          {
+            "number": 4,
+            "par": 5,
+            "yards": 480
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 398
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 180
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 315
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 508
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": 120
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 485
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 348
+          },
+          {
+            "number": 12,
+            "par": 3,
+            "yards": 150
+          },
+          {
+            "number": 13,
+            "par": 4,
+            "yards": 375
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 348
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 138
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 340
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 350
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 414
+          }
+        ]
+      }
+    ]
   }
 ]

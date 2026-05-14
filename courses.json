@@ -1,0 +1,161 @@
+[
+  {
+    "id": "local-villages-escambia",
+    "name": "The Villages — Escambia",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": null,
+        "par": 30,
+        "holes": [
+          { "number": 1, "par": 3, "yards": null },
+          { "number": 2, "par": 3, "yards": null },
+          { "number": 3, "par": 3, "yards": null },
+          { "number": 4, "par": 3, "yards": null },
+          { "number": 5, "par": 3, "yards": null },
+          { "number": 6, "par": 3, "yards": null },
+          { "number": 7, "par": 4, "yards": null },
+          { "number": 8, "par": 3, "yards": null },
+          { "number": 9, "par": 3, "yards": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-allamanda",
+    "name": "The Villages — Allamanda",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": null,
+        "par": 30,
+        "holes": [
+          { "number": 1, "par": 3, "yards": null },
+          { "number": 2, "par": 3, "yards": null },
+          { "number": 3, "par": 3, "yards": null },
+          { "number": 4, "par": 4, "yards": null },
+          { "number": 5, "par": 3, "yards": null },
+          { "number": 6, "par": 3, "yards": null },
+          { "number": 7, "par": 3, "yards": null },
+          { "number": 8, "par": 3, "yards": null },
+          { "number": 9, "par": 3, "yards": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-tarpon-boil",
+    "name": "The Villages — Tarpon Boil",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": null,
+        "par": 31,
+        "holes": [
+          { "number": 1, "par": 4, "yards": null },
+          { "number": 2, "par": 3, "yards": null },
+          { "number": 3, "par": 3, "yards": null },
+          { "number": 4, "par": 3, "yards": null },
+          { "number": 5, "par": 4, "yards": null },
+          { "number": 6, "par": 3, "yards": null },
+          { "number": 7, "par": 3, "yards": null },
+          { "number": 8, "par": 3, "yards": null },
+          { "number": 9, "par": 3, "yards": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-captiva",
+    "name": "The Villages — Captiva",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": null,
+        "par": 30,
+        "holes": [
+          { "number": 1, "par": 3, "yards": null },
+          { "number": 2, "par": 3, "yards": null },
+          { "number": 3, "par": 3, "yards": null },
+          { "number": 4, "par": 3, "yards": null },
+          { "number": 5, "par": 3, "yards": null },
+          { "number": 6, "par": 3, "yards": null },
+          { "number": 7, "par": 4, "yards": null },
+          { "number": 8, "par": 3, "yards": null },
+          { "number": 9, "par": 3, "yards": null }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-tierra-del-sol",
+    "name": "The Villages — Tierra Del Sol",
+    "subtitle": "Championship Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 18,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "gender": "male",
+        "rating": 70.2,
+        "slope": 122,
+        "yards": 5845,
+        "par": 72,
+        "holes": [
+          { "number": 1,  "par": 4, "yards": null },
+          { "number": 2,  "par": 4, "yards": null },
+          { "number": 3,  "par": 3, "yards": null },
+          { "number": 4,  "par": 5, "yards": null },
+          { "number": 5,  "par": 4, "yards": null },
+          { "number": 6,  "par": 3, "yards": null },
+          { "number": 7,  "par": 4, "yards": null },
+          { "number": 8,  "par": 4, "yards": null },
+          { "number": 9,  "par": 5, "yards": null },
+          { "number": 10, "par": 4, "yards": null },
+          { "number": 11, "par": 4, "yards": null },
+          { "number": 12, "par": 3, "yards": null },
+          { "number": 13, "par": 4, "yards": null },
+          { "number": 14, "par": 5, "yards": null },
+          { "number": 15, "par": 4, "yards": null },
+          { "number": 16, "par": 3, "yards": null },
+          { "number": 17, "par": 4, "yards": null },
+          { "number": 18, "par": 5, "yards": null }
+        ]
+      }
+    ]
+  }
+]

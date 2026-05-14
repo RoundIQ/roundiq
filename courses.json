@@ -3917,5 +3917,2861 @@
         ]
       }
     ]
+  },
+  {
+    "id": "local-villages-evans-prairie-egret",
+    "name": "The Villages \u2014 Evans Prairie (Egret)",
+    "subtitle": "Championship 9-Hole \u00b7 Evans Prairie CC",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "Black",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 3466,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 583
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 351
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 403
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 190
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 398
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 413
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 182
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 363
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 583
+          }
+        ]
+      },
+      {
+        "name": "Gold",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 3252,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 568
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 314
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 378
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 176
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 373
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 386
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 151
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 356
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 550
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 3017,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 537
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 289
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 360
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 155
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 348
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 359
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 133
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 319
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 517
+          }
+        ]
+      },
+      {
+        "name": "Green",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 2724,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 469
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 276
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 331
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 129
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 324
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 343
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 108
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 279
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 465
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 2316,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 375
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 209
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 281
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 105
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 282
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 326
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 87
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 231
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 420
+          }
+        ]
+      },
+      {
+        "name": "Friendly",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 1921,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 353
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 203
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 233
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 100
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 223
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 254
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 87
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 163
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 305
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-evans-prairie-killdeer",
+    "name": "The Villages \u2014 Evans Prairie (Killdeer)",
+    "subtitle": "Championship 9-Hole \u00b7 Evans Prairie CC",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "Black",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 3586,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 406
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 448
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 523
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 207
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 425
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 167
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 459
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 530
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 421
+          }
+        ]
+      },
+      {
+        "name": "Gold",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 3383,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 385
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 421
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 514
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 202
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 389
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 158
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 425
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 497
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 392
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 3116,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 350
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 378
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 450
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 185
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 363
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 137
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 405
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 464
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 384
+          }
+        ]
+      },
+      {
+        "name": "Green",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 2428,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 270
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 366
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 88
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 318
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 99
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 305
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 376
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 289
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 2830,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 355
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 418
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 167
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 357
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 130
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 313
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 420
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 353
+          }
+        ]
+      },
+      {
+        "name": "Friendly",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 2008,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 224
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 252
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 296
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 82
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 210
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 93
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 247
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 322
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 282
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-evans-prairie-osprey",
+    "name": "The Villages \u2014 Evans Prairie (Osprey)",
+    "subtitle": "Championship 9-Hole \u00b7 Evans Prairie CC",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "Black",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 3439,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 435
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 559
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 374
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 180
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 335
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 175
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 407
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 528
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 446
+          }
+        ]
+      },
+      {
+        "name": "Gold",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 3272,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 414
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 550
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 343
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 165
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 328
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 168
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 376
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 491
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 437
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 3054,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 383
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 517
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 314
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 151
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 291
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 147
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 367
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 478
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 406
+          }
+        ]
+      },
+      {
+        "name": "Green",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 2445,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 268
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 442
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 245
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 104
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 243
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 107
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 308
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 417
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 311
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 2793,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 352
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 487
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 285
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 114
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 265
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 122
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 337
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 458
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 373
+          }
+        ]
+      },
+      {
+        "name": "Friendly",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 1866,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 232
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 285
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 207
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 81
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 213
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 101
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 185
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 307
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 255
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-evans-prairie-egret-killdeer",
+    "name": "The Villages \u2014 Evans Prairie (Egret / Killdeer)",
+    "subtitle": "Championship 18-Hole \u00b7 Evans Prairie CC",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 18,
+    "local": true,
+    "tees": [
+      {
+        "name": "Black",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 7052,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 583
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 351
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 403
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 190
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 398
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 413
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 182
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 363
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 583
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 406
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 448
+          },
+          {
+            "number": 12,
+            "par": 5,
+            "yards": 523
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 207
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 425
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 167
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 459
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 530
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 421
+          }
+        ]
+      },
+      {
+        "name": "Gold",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 6635,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 568
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 314
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 378
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 176
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 373
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 386
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 151
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 356
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 550
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 385
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 421
+          },
+          {
+            "number": 12,
+            "par": 5,
+            "yards": 514
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 202
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 389
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 158
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 425
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 497
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 392
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 6133,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 537
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 289
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 360
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 155
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 348
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 359
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 133
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 319
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 517
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 350
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 378
+          },
+          {
+            "number": 12,
+            "par": 5,
+            "yards": 450
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 185
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 363
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 137
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 405
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 464
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 384
+          }
+        ]
+      },
+      {
+        "name": "Green",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 5152,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 469
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 276
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 331
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 129
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 324
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 343
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 108
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 279
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 465
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 270
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 12,
+            "par": 5,
+            "yards": 366
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 88
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 318
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 99
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 305
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 376
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 289
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 5146,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 375
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 209
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 281
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 105
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 282
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 326
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 87
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 231
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 420
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 355
+          },
+          {
+            "number": 12,
+            "par": 5,
+            "yards": 418
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 167
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 357
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 130
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 313
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 420
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 353
+          }
+        ]
+      },
+      {
+        "name": "Friendly",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 3929,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 5,
+            "yards": 353
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 203
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 233
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 100
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 223
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": 254
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": 87
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": 163
+          },
+          {
+            "number": 9,
+            "par": 5,
+            "yards": 305
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 224
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 252
+          },
+          {
+            "number": 12,
+            "par": 5,
+            "yards": 296
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 82
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 210
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 93
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 247
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 322
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 282
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-evans-prairie-killdeer-osprey",
+    "name": "The Villages \u2014 Evans Prairie (Killdeer / Osprey)",
+    "subtitle": "Championship 18-Hole \u00b7 Evans Prairie CC",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 18,
+    "local": true,
+    "tees": [
+      {
+        "name": "Black",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 7025,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 406
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 448
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 523
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 207
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 425
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 167
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 459
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 530
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 421
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 435
+          },
+          {
+            "number": 11,
+            "par": 5,
+            "yards": 559
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 374
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 180
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 335
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 175
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 407
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 528
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 446
+          }
+        ]
+      },
+      {
+        "name": "Gold",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 6655,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 385
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 421
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 514
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 202
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 389
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 158
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 425
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 497
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 392
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 414
+          },
+          {
+            "number": 11,
+            "par": 5,
+            "yards": 550
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 343
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 165
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 328
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 168
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 376
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 491
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 437
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 6170,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 350
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 378
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 450
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 185
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 363
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 137
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 405
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 464
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 384
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 383
+          },
+          {
+            "number": 11,
+            "par": 5,
+            "yards": 517
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 314
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 151
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 291
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 147
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 367
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 478
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 406
+          }
+        ]
+      },
+      {
+        "name": "Green",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 4873,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 270
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 366
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 88
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 318
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 99
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 305
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 376
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 289
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 268
+          },
+          {
+            "number": 11,
+            "par": 5,
+            "yards": 442
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 245
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 104
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 243
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 107
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 308
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 417
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 311
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 5623,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 355
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 418
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 167
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 357
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 130
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 313
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 420
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 353
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 352
+          },
+          {
+            "number": 11,
+            "par": 5,
+            "yards": 487
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 285
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 114
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 265
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 122
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 337
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 458
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 373
+          }
+        ]
+      },
+      {
+        "name": "Friendly",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 3874,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 224
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 252
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 296
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 82
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 210
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 93
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 247
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 322
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 282
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 232
+          },
+          {
+            "number": 11,
+            "par": 5,
+            "yards": 285
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 207
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 81
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 213
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 101
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 185
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 307
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 255
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-evans-prairie-osprey-egret",
+    "name": "The Villages \u2014 Evans Prairie (Osprey / Egret)",
+    "subtitle": "Championship 18-Hole \u00b7 Evans Prairie CC",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 18,
+    "local": true,
+    "tees": [
+      {
+        "name": "Black",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 6905,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 435
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 559
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 374
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 180
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 335
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 175
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 407
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 528
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 446
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 583
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 351
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 403
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 190
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 398
+          },
+          {
+            "number": 15,
+            "par": 4,
+            "yards": 413
+          },
+          {
+            "number": 16,
+            "par": 3,
+            "yards": 182
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 363
+          },
+          {
+            "number": 18,
+            "par": 5,
+            "yards": 583
+          }
+        ]
+      },
+      {
+        "name": "Gold",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 6524,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 414
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 550
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 343
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 165
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 328
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 168
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 376
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 491
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 437
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 568
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 314
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 378
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 176
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 373
+          },
+          {
+            "number": 15,
+            "par": 4,
+            "yards": 386
+          },
+          {
+            "number": 16,
+            "par": 3,
+            "yards": 151
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 356
+          },
+          {
+            "number": 18,
+            "par": 5,
+            "yards": 550
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 6071,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 383
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 517
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 314
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 151
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 291
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 147
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 367
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 478
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 406
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 537
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 289
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 360
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 155
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 348
+          },
+          {
+            "number": 15,
+            "par": 4,
+            "yards": 359
+          },
+          {
+            "number": 16,
+            "par": 3,
+            "yards": 133
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 319
+          },
+          {
+            "number": 18,
+            "par": 5,
+            "yards": 517
+          }
+        ]
+      },
+      {
+        "name": "Green",
+        "gender": "male",
+        "rating": null,
+        "slope": null,
+        "yards": 5169,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 268
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 442
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 245
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 104
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 243
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 107
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 308
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 417
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 311
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 469
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 276
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 331
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 129
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 324
+          },
+          {
+            "number": 15,
+            "par": 4,
+            "yards": 343
+          },
+          {
+            "number": 16,
+            "par": 3,
+            "yards": 108
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 279
+          },
+          {
+            "number": 18,
+            "par": 5,
+            "yards": 465
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 5109,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 352
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 487
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 285
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 114
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 265
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 122
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 337
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 458
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 373
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 375
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 209
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 281
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 105
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 282
+          },
+          {
+            "number": 15,
+            "par": 4,
+            "yards": 326
+          },
+          {
+            "number": 16,
+            "par": 3,
+            "yards": 87
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 231
+          },
+          {
+            "number": 18,
+            "par": 5,
+            "yards": 420
+          }
+        ]
+      },
+      {
+        "name": "Friendly",
+        "gender": "female",
+        "rating": null,
+        "slope": null,
+        "yards": 3787,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 232
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 285
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 207
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 81
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 213
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 101
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 185
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 307
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 255
+          },
+          {
+            "number": 10,
+            "par": 5,
+            "yards": 353
+          },
+          {
+            "number": 11,
+            "par": 4,
+            "yards": 203
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 233
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 100
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 223
+          },
+          {
+            "number": 15,
+            "par": 4,
+            "yards": 254
+          },
+          {
+            "number": 16,
+            "par": 3,
+            "yards": 87
+          },
+          {
+            "number": 17,
+            "par": 4,
+            "yards": 163
+          },
+          {
+            "number": 18,
+            "par": 5,
+            "yards": 305
+          }
+        ]
+      }
+    ]
   }
 ]

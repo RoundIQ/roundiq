@@ -9,9 +9,17 @@
     "local": true,
     "tees": [
       {
-        "name": "White",
+        "name": "Blue",
         "yards": null,
         "par": 30,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
         "holes": [
           {
             "number": 1,
@@ -58,7 +66,12 @@
             "par": 3,
             "yards": null
           }
-        ],
+        ]
+      },
+      {
+        "name": "White",
+        "yards": null,
+        "par": 30,
         "male": {
           "rating": null,
           "slope": null
@@ -66,7 +79,114 @@
         "female": {
           "rating": null,
           "slope": null
-        }
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "yards": null,
+        "par": 30,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
       }
     ]
   },
@@ -80,9 +200,17 @@
     "local": true,
     "tees": [
       {
-        "name": "White",
+        "name": "Blue",
         "yards": null,
         "par": 30,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
         "holes": [
           {
             "number": 1,
@@ -129,7 +257,12 @@
             "par": 3,
             "yards": null
           }
-        ],
+        ]
+      },
+      {
+        "name": "White",
+        "yards": null,
+        "par": 30,
         "male": {
           "rating": null,
           "slope": null
@@ -137,7 +270,114 @@
         "female": {
           "rating": null,
           "slope": null
-        }
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "yards": null,
+        "par": 30,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
       }
     ]
   },
@@ -151,9 +391,17 @@
     "local": true,
     "tees": [
       {
-        "name": "White",
+        "name": "Blue",
         "yards": null,
         "par": 31,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
         "holes": [
           {
             "number": 1,
@@ -200,7 +448,12 @@
             "par": 3,
             "yards": null
           }
-        ],
+        ]
+      },
+      {
+        "name": "White",
+        "yards": null,
+        "par": 31,
         "male": {
           "rating": null,
           "slope": null
@@ -208,7 +461,114 @@
         "female": {
           "rating": null,
           "slope": null
-        }
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "yards": null,
+        "par": 31,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
       }
     ]
   },
@@ -222,9 +582,17 @@
     "local": true,
     "tees": [
       {
-        "name": "White",
+        "name": "Blue",
         "yards": null,
         "par": 30,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
         "holes": [
           {
             "number": 1,
@@ -271,7 +639,12 @@
             "par": 3,
             "yards": null
           }
-        ],
+        ]
+      },
+      {
+        "name": "White",
+        "yards": null,
+        "par": 30,
         "male": {
           "rating": null,
           "slope": null
@@ -279,7 +652,114 @@
         "female": {
           "rating": null,
           "slope": null
-        }
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "yards": null,
+        "par": 30,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
       }
     ]
   },
@@ -4948,7 +5428,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -30671,7 +31271,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -30742,7 +31462,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -30813,7 +31653,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -30884,7 +31844,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -30955,7 +32035,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -31026,7 +32226,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -31097,7 +32417,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -31168,7 +32608,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -31239,7 +32799,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -31310,7 +32990,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -31381,7 +33181,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -31452,7 +33372,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -31523,7 +33563,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -31594,7 +33754,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -31665,7 +33945,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -31736,7 +34136,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -31807,7 +34327,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -31878,7 +34518,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -31949,7 +34709,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -32020,7 +34900,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -32091,7 +35091,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -32162,7 +35282,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -32233,7 +35473,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -32304,7 +35664,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -32375,7 +35855,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -32446,7 +36046,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -32517,7 +36237,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -32588,7 +36428,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -32659,7 +36619,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -32730,7 +36810,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -32801,7 +37001,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -32872,7 +37192,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -32943,7 +37383,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -33014,7 +37574,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -33085,7 +37765,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {
@@ -33156,7 +37956,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -33227,7 +38147,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -33298,7 +38338,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -33369,7 +38529,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -33440,7 +38720,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 28,
         "male": {
@@ -33511,7 +38911,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 27,
         "male": {
@@ -33582,7 +39102,127 @@
     "local": true,
     "tees": [
       {
+        "name": "Blue",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
         "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      },
+      {
+        "name": "Red",
         "yards": null,
         "par": 29,
         "male": {

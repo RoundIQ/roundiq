@@ -4937,5 +4937,76 @@
         }
       }
     ]
+  },
+  {
+    "id": "local-villages-bacall",
+    "name": "The Villages \u2014 Bacall",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": null
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -31,7 +31,8 @@ export default async function handler(req, res) {
       }
 
       const course = data.course || data;
-      return res.status(200).json(normalizeCourseDetail(course));
+      const gender = req.query.gender || 'male';
+      return res.status(200).json(normalizeCourseDetail(course, gender));
 
     } else {
       url = `https://api.golfcourseapi.com/v1/search?search_query=${encodeURIComponent(query)}`;
@@ -64,7 +65,7 @@ export default async function handler(req, res) {
   }
 }
 
-function normalizeCourseDetail(course) {
+function normalizeCourseDetail(course, gender = 'male') {
   const teesObj = course.tees || {};
   const allTees = [];
 
@@ -78,7 +79,12 @@ function normalizeCourseDetail(course) {
     teesObj.forEach(t => allTees.push({ ...t, _gender: t.gender || 'male' }));
   }
 
-  const tees = allTees.map(t => ({
+  // Filter to requested gender only, sort by yardage desc
+  const filtered = allTees
+    .filter(t => t._gender === gender)
+    .sort((a, b) => (parseInt(b.total_yards||b.yardage||0)) - (parseInt(a.total_yards||a.yardage||0)));
+
+  const tees = filtered.map(t => ({
     name:   t.tee_name || t.name || 'Unknown',
     gender: t._gender,
     rating: parseFloat(t.course_rating || t.front_course_rating) || null,

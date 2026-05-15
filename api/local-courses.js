@@ -8,14 +8,14 @@ export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Cache-Control', 's-maxage=3600');
 
-  const query    = (req.query.q  || '').toLowerCase().trim();
-  const courseId = req.query.id  || '';
+  const query    = (req.query.q      || '').toLowerCase().trim();
+  const courseId =  req.query.id     || '';
+  const gender   = (req.query.gender || 'male').toLowerCase();
 
   if (!query && !courseId) {
     return res.status(400).json({ error: 'Missing query parameter' });
   }
 
-  // Load courses from JSON file
   let courses;
   try {
     const filePath = join(process.cwd(), 'courses.json');
@@ -27,23 +27,39 @@ export default function handler(req, res) {
   if (courseId) {
     const course = courses.find(c => c.id === courseId);
     if (!course) return res.status(404).json({ error: 'Course not found' });
-    return res.status(200).json(course);
+    return res.status(200).json(normalizeCourse(course, gender));
   }
 
-  // Search by name — simple substring match on all fields
   const results = courses.filter(c => {
     const searchable = [c.name, c.subtitle, c.city, c.state]
       .filter(Boolean).join(' ').toLowerCase();
     return searchable.includes(query);
   }).slice(0, 8).map(c => ({
-    id:       c.id,
-    name:     c.name,
-    subtitle: c.subtitle || '',
-    city:     c.city,
-    state:    c.state,
-    holes:    c.holes,
-    local:    true,
+    id: c.id, name: c.name, subtitle: c.subtitle || '',
+    city: c.city, state: c.state, holes: c.holes, local: true,
   }));
 
   return res.status(200).json({ courses: results });
+}
+
+function normalizeCourse(course, gender) {
+  const tees = (course.tees || []).map(t => {
+    const genderData = t[gender] || {};
+    return {
+      name:   t.name,
+      gender: gender,
+      rating: genderData.rating || null,
+      slope:  genderData.slope  || null,
+      yards:  t.yards || null,
+      par:    t.par   || null,
+      holes:  t.holes || null,
+    };
+  });
+
+  return {
+    id: course.id, name: course.name,
+    city: course.city || '', state: course.state || '',
+    numHoles: course.holes || 18,
+    tees,
+  };
 }

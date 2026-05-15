@@ -10,9 +10,6 @@
     "tees": [
       {
         "name": "White",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": null,
         "par": 30,
         "holes": [
@@ -61,7 +58,15 @@
             "par": 3,
             "yards": null
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -76,9 +81,6 @@
     "tees": [
       {
         "name": "White",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": null,
         "par": 30,
         "holes": [
@@ -127,7 +129,15 @@
             "par": 3,
             "yards": null
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -142,9 +152,6 @@
     "tees": [
       {
         "name": "White",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": null,
         "par": 31,
         "holes": [
@@ -193,7 +200,15 @@
             "par": 3,
             "yards": null
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -208,9 +223,6 @@
     "tees": [
       {
         "name": "White",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": null,
         "par": 30,
         "holes": [
@@ -259,7 +271,15 @@
             "par": 3,
             "yards": null
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -274,9 +294,6 @@
     "tees": [
       {
         "name": "White",
-        "gender": "male",
-        "rating": 70.2,
-        "slope": 122,
         "yards": 5845,
         "par": 72,
         "holes": [
@@ -370,7 +387,15 @@
             "par": 5,
             "yards": null
           }
-        ]
+        ],
+        "male": {
+          "rating": 70.2,
+          "slope": 122
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -385,9 +410,6 @@
     "tees": [
       {
         "name": "Gold",
-        "gender": "male",
-        "rating": 70.6,
-        "slope": 124,
         "yards": 6468,
         "par": 70,
         "holes": [
@@ -481,13 +503,18 @@
             "par": 5,
             "yards": 531
           }
-        ]
+        ],
+        "male": {
+          "rating": 70.6,
+          "slope": 124
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Blue",
-        "gender": "male",
-        "rating": 67.5,
-        "slope": 115,
         "yards": 5794,
         "par": 70,
         "holes": [
@@ -581,13 +608,18 @@
             "par": 5,
             "yards": 490
           }
-        ]
+        ],
+        "male": {
+          "rating": 67.5,
+          "slope": 115
+        },
+        "female": {
+          "rating": 73.1,
+          "slope": 130
+        }
       },
       {
         "name": "White",
-        "gender": "male",
-        "rating": 64.6,
-        "slope": 106,
         "yards": 5209,
         "par": 70,
         "holes": [
@@ -681,13 +713,18 @@
             "par": 5,
             "yards": 450
           }
-        ]
+        ],
+        "male": {
+          "rating": 64.6,
+          "slope": 106
+        },
+        "female": {
+          "rating": 69.5,
+          "slope": 119
+        }
       },
       {
         "name": "Green",
-        "gender": "male",
-        "rating": 61.9,
-        "slope": 101,
         "yards": 4576,
         "par": 70,
         "holes": [
@@ -781,13 +818,18 @@
             "par": 5,
             "yards": 415
           }
-        ]
+        ],
+        "male": {
+          "rating": 61.9,
+          "slope": 101
+        },
+        "female": {
+          "rating": 65.8,
+          "slope": 111
+        }
       },
       {
         "name": "Friendly",
-        "gender": "male",
-        "rating": 59.1,
-        "slope": 95,
         "yards": 3842,
         "par": 70,
         "holes": [
@@ -881,1418 +923,15 @@
             "par": 5,
             "yards": 315
           }
-        ]
-      },
-      {
-        "name": "Blue",
-        "gender": "female",
-        "rating": 73.1,
-        "slope": 130,
-        "yards": 5794,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 469
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 140
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": 365
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": 297
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": 180
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": 374
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": 511
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": 141
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": 393
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": 349
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 140
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 355
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 495
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 178
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": 373
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": 147
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": 397
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": 490
-          }
-        ]
-      },
-      {
-        "name": "White",
-        "gender": "female",
-        "rating": 69.5,
-        "slope": 119,
-        "yards": 5209,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 455
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 128
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": 350
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": 262
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": 119
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": 310
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": 473
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": 130
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": 352
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": 327
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 123
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 324
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 462
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 146
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": 339
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": 137
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": 322
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": 450
-          }
-        ]
-      },
-      {
-        "name": "Green",
-        "gender": "female",
-        "rating": 65.8,
-        "slope": 111,
-        "yards": 4576,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 390
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 108
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": 321
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": 255
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": 100
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": 265
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": 426
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": 110
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": 320
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": 254
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 106
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 290
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 400
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 125
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": 285
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": 114
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": 292
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": 415
-          }
-        ]
-      },
-      {
-        "name": "Friendly",
-        "gender": "female",
-        "rating": 61.6,
-        "slope": 102,
-        "yards": 3842,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 370
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 90
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": 273
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": 236
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": 100
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": 250
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": 340
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": 97
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": 200
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": 236
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 85
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 219
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 315
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 117
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": 275
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": 99
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": 225
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": 315
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "local-villages-shallow-creek",
-    "name": "The Villages \u2014 Shallow Creek",
-    "subtitle": "Championship Course",
-    "city": "The Villages",
-    "state": "FL",
-    "holes": 18,
-    "local": true,
-    "tees": [
-      {
-        "name": "Gold",
-        "gender": "male",
-        "rating": 70.6,
-        "slope": 124,
-        "yards": 6468,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 501
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 160
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": 391
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": 385
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": 220
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": 423
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": 557
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": 157
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": 429
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": 381
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 180
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 388
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 523
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 210
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": 403
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": 163
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": 466
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": 531
-          }
-        ]
-      },
-      {
-        "name": "Gold",
-        "gender": "female",
-        "rating": 76.8,
-        "slope": 139,
-        "yards": 6468,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 501
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 160
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": 391
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": 385
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": 220
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": 423
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": 557
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": 157
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": 429
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": 381
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 180
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 388
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 523
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 210
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": 403
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": 163
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": 466
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": 531
-          }
-        ]
-      },
-      {
-        "name": "Blue",
-        "gender": "male",
-        "rating": 67.5,
-        "slope": 115,
-        "yards": 5794,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": null
-          }
-        ]
-      },
-      {
-        "name": "Blue",
-        "gender": "female",
-        "rating": 73.1,
-        "slope": 130,
-        "yards": 5794,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": null
-          }
-        ]
-      },
-      {
-        "name": "White",
-        "gender": "male",
-        "rating": 64.6,
-        "slope": 106,
-        "yards": 5209,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": null
-          }
-        ]
-      },
-      {
-        "name": "White",
-        "gender": "female",
-        "rating": 69.5,
-        "slope": 119,
-        "yards": 5209,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": null
-          }
-        ]
-      },
-      {
-        "name": "Green",
-        "gender": "male",
-        "rating": 61.9,
-        "slope": 101,
-        "yards": 4576,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": null
-          }
-        ]
-      },
-      {
-        "name": "Green",
-        "gender": "female",
-        "rating": 65.8,
-        "slope": 111,
-        "yards": 4576,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": null
-          }
-        ]
-      },
-      {
-        "name": "Yellow",
-        "gender": "male",
-        "rating": 59.1,
-        "slope": 95,
-        "yards": 3842,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": null
-          }
-        ]
-      },
-      {
-        "name": "Yellow",
-        "gender": "female",
-        "rating": 61.6,
-        "slope": 102,
-        "yards": 3842,
-        "par": 70,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 4,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 5,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 6,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 7,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 8,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": null
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 15,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 16,
-            "par": 3,
-            "yards": null
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": null
-          },
-          {
-            "number": 18,
-            "par": 5,
-            "yards": null
-          }
-        ]
+        ],
+        "male": {
+          "rating": 59.1,
+          "slope": 95
+        },
+        "female": {
+          "rating": 61.6,
+          "slope": 102
+        }
       }
     ]
   },
@@ -2307,9 +946,6 @@
     "tees": [
       {
         "name": "Gold",
-        "gender": "male",
-        "rating": 70.4,
-        "slope": 125,
         "yards": 6512,
         "par": 72,
         "holes": [
@@ -2403,113 +1039,18 @@
             "par": 4,
             "yards": 429
           }
-        ]
-      },
-      {
-        "name": "Gold",
-        "gender": "female",
-        "rating": 76.4,
-        "slope": 131,
-        "yards": 6512,
-        "par": 72,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 532
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 190
-          },
-          {
-            "number": 3,
-            "par": 5,
-            "yards": 500
-          },
-          {
-            "number": 4,
-            "par": 3,
-            "yards": 160
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 388
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 141
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 359
-          },
-          {
-            "number": 8,
-            "par": 4,
-            "yards": 407
-          },
-          {
-            "number": 9,
-            "par": 5,
-            "yards": 507
-          },
-          {
-            "number": 10,
-            "par": 5,
-            "yards": 532
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 195
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 412
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 545
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 172
-          },
-          {
-            "number": 15,
-            "par": 5,
-            "yards": 531
-          },
-          {
-            "number": 16,
-            "par": 4,
-            "yards": 342
-          },
-          {
-            "number": 17,
-            "par": 3,
-            "yards": 170
-          },
-          {
-            "number": 18,
-            "par": 4,
-            "yards": 429
-          }
-        ]
+        ],
+        "male": {
+          "rating": 70.4,
+          "slope": 125
+        },
+        "female": {
+          "rating": 76.4,
+          "slope": 131
+        }
       },
       {
         "name": "Blue",
-        "gender": "male",
-        "rating": 68.7,
-        "slope": 115,
         "yards": 6052,
         "par": 72,
         "holes": [
@@ -2603,113 +1144,18 @@
             "par": 4,
             "yards": 400
           }
-        ]
-      },
-      {
-        "name": "Blue",
-        "gender": "female",
-        "rating": 74.0,
-        "slope": 126,
-        "yards": 6052,
-        "par": 72,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 504
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 165
-          },
-          {
-            "number": 3,
-            "par": 5,
-            "yards": 478
-          },
-          {
-            "number": 4,
-            "par": 3,
-            "yards": 145
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 370
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 125
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 342
-          },
-          {
-            "number": 8,
-            "par": 4,
-            "yards": 383
-          },
-          {
-            "number": 9,
-            "par": 5,
-            "yards": 472
-          },
-          {
-            "number": 10,
-            "par": 5,
-            "yards": 499
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 175
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 373
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 503
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 154
-          },
-          {
-            "number": 15,
-            "par": 5,
-            "yards": 492
-          },
-          {
-            "number": 16,
-            "par": 4,
-            "yards": 316
-          },
-          {
-            "number": 17,
-            "par": 3,
-            "yards": 156
-          },
-          {
-            "number": 18,
-            "par": 4,
-            "yards": 400
-          }
-        ]
+        ],
+        "male": {
+          "rating": 68.7,
+          "slope": 115
+        },
+        "female": {
+          "rating": 74.0,
+          "slope": 126
+        }
       },
       {
         "name": "White",
-        "gender": "male",
-        "rating": 66.5,
-        "slope": 108,
         "yards": 5544,
         "par": 72,
         "holes": [
@@ -2803,113 +1249,18 @@
             "par": 4,
             "yards": 373
           }
-        ]
-      },
-      {
-        "name": "White",
-        "gender": "female",
-        "rating": 71.2,
-        "slope": 120,
-        "yards": 5544,
-        "par": 72,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 489
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 139
-          },
-          {
-            "number": 3,
-            "par": 5,
-            "yards": 453
-          },
-          {
-            "number": 4,
-            "par": 3,
-            "yards": 130
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 346
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 110
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 322
-          },
-          {
-            "number": 8,
-            "par": 4,
-            "yards": 349
-          },
-          {
-            "number": 9,
-            "par": 5,
-            "yards": 438
-          },
-          {
-            "number": 10,
-            "par": 5,
-            "yards": 457
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 154
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 341
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 448
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 137
-          },
-          {
-            "number": 15,
-            "par": 5,
-            "yards": 432
-          },
-          {
-            "number": 16,
-            "par": 4,
-            "yards": 295
-          },
-          {
-            "number": 17,
-            "par": 3,
-            "yards": 131
-          },
-          {
-            "number": 18,
-            "par": 4,
-            "yards": 373
-          }
-        ]
+        ],
+        "male": {
+          "rating": 66.5,
+          "slope": 108
+        },
+        "female": {
+          "rating": 71.2,
+          "slope": 120
+        }
       },
       {
         "name": "Green",
-        "gender": "male",
-        "rating": 63.0,
-        "slope": 100,
         "yards": 4746,
         "par": 72,
         "holes": [
@@ -3003,113 +1354,18 @@
             "par": 4,
             "yards": 310
           }
-        ]
-      },
-      {
-        "name": "Green",
-        "gender": "female",
-        "rating": 66.5,
-        "slope": 108,
-        "yards": 4746,
-        "par": 72,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 458
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 125
-          },
-          {
-            "number": 3,
-            "par": 5,
-            "yards": 369
-          },
-          {
-            "number": 4,
-            "par": 3,
-            "yards": 115
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 301
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 78
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 253
-          },
-          {
-            "number": 8,
-            "par": 4,
-            "yards": 290
-          },
-          {
-            "number": 9,
-            "par": 5,
-            "yards": 381
-          },
-          {
-            "number": 10,
-            "par": 5,
-            "yards": 406
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 118
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 254
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 418
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 100
-          },
-          {
-            "number": 15,
-            "par": 5,
-            "yards": 410
-          },
-          {
-            "number": 16,
-            "par": 4,
-            "yards": 266
-          },
-          {
-            "number": 17,
-            "par": 3,
-            "yards": 94
-          },
-          {
-            "number": 18,
-            "par": 4,
-            "yards": 310
-          }
-        ]
+        ],
+        "male": {
+          "rating": 63.0,
+          "slope": 100
+        },
+        "female": {
+          "rating": 66.5,
+          "slope": 108
+        }
       },
       {
         "name": "Friendly",
-        "gender": "male",
-        "rating": 61.0,
-        "slope": 97,
         "yards": 4019,
         "par": 72,
         "holes": [
@@ -3203,107 +1459,15 @@
             "par": 4,
             "yards": 283
           }
-        ]
-      },
-      {
-        "name": "Friendly",
-        "gender": "female",
-        "rating": 62.5,
-        "slope": 99,
-        "yards": 4019,
-        "par": 72,
-        "holes": [
-          {
-            "number": 1,
-            "par": 5,
-            "yards": 300
-          },
-          {
-            "number": 2,
-            "par": 3,
-            "yards": 110
-          },
-          {
-            "number": 3,
-            "par": 5,
-            "yards": 348
-          },
-          {
-            "number": 4,
-            "par": 3,
-            "yards": 85
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 251
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 64
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 208
-          },
-          {
-            "number": 8,
-            "par": 4,
-            "yards": 253
-          },
-          {
-            "number": 9,
-            "par": 5,
-            "yards": 351
-          },
-          {
-            "number": 10,
-            "par": 5,
-            "yards": 325
-          },
-          {
-            "number": 11,
-            "par": 3,
-            "yards": 95
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 235
-          },
-          {
-            "number": 13,
-            "par": 5,
-            "yards": 383
-          },
-          {
-            "number": 14,
-            "par": 3,
-            "yards": 79
-          },
-          {
-            "number": 15,
-            "par": 5,
-            "yards": 371
-          },
-          {
-            "number": 16,
-            "par": 4,
-            "yards": 205
-          },
-          {
-            "number": 17,
-            "par": 3,
-            "yards": 73
-          },
-          {
-            "number": 18,
-            "par": 4,
-            "yards": 283
-          }
-        ]
+        ],
+        "male": {
+          "rating": 61.0,
+          "slope": 97
+        },
+        "female": {
+          "rating": 62.5,
+          "slope": 99
+        }
       }
     ]
   },
@@ -3318,9 +1482,6 @@
     "tees": [
       {
         "name": "Gold",
-        "gender": "male",
-        "rating": 73.2,
-        "slope": 129,
         "yards": 6864,
         "par": 72,
         "holes": [
@@ -3414,13 +1575,18 @@
             "par": 4,
             "yards": 438
           }
-        ]
+        ],
+        "male": {
+          "rating": 73.2,
+          "slope": 129
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Blue",
-        "gender": "male",
-        "rating": 72.0,
-        "slope": 128,
         "yards": 6628,
         "par": 72,
         "holes": [
@@ -3514,13 +1680,18 @@
             "par": 4,
             "yards": 428
           }
-        ]
+        ],
+        "male": {
+          "rating": 72.0,
+          "slope": 128
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "White",
-        "gender": "male",
-        "rating": 70.7,
-        "slope": 124,
         "yards": 6317,
         "par": 72,
         "holes": [
@@ -3614,113 +1785,18 @@
             "par": 4,
             "yards": 420
           }
-        ]
-      },
-      {
-        "name": "White",
-        "gender": "female",
-        "rating": 74.9,
-        "slope": 127,
-        "yards": 6317,
-        "par": 72,
-        "holes": [
-          {
-            "number": 1,
-            "par": 4,
-            "yards": 317
-          },
-          {
-            "number": 2,
-            "par": 5,
-            "yards": 487
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": 310
-          },
-          {
-            "number": 4,
-            "par": 5,
-            "yards": 503
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 425
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 200
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 335
-          },
-          {
-            "number": 8,
-            "par": 5,
-            "yards": 525
-          },
-          {
-            "number": 9,
-            "par": 3,
-            "yards": 142
-          },
-          {
-            "number": 10,
-            "par": 5,
-            "yards": 490
-          },
-          {
-            "number": 11,
-            "par": 4,
-            "yards": 350
-          },
-          {
-            "number": 12,
-            "par": 3,
-            "yards": 156
-          },
-          {
-            "number": 13,
-            "par": 4,
-            "yards": 390
-          },
-          {
-            "number": 14,
-            "par": 4,
-            "yards": 367
-          },
-          {
-            "number": 15,
-            "par": 3,
-            "yards": 150
-          },
-          {
-            "number": 16,
-            "par": 4,
-            "yards": 374
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": 376
-          },
-          {
-            "number": 18,
-            "par": 4,
-            "yards": 420
-          }
-        ]
+        ],
+        "male": {
+          "rating": 70.7,
+          "slope": 124
+        },
+        "female": {
+          "rating": 74.9,
+          "slope": 127
+        }
       },
       {
         "name": "Red",
-        "gender": "male",
-        "rating": 68.6,
-        "slope": 122,
         "yards": 5964,
         "par": 72,
         "holes": [
@@ -3814,107 +1890,15 @@
             "par": 4,
             "yards": 414
           }
-        ]
-      },
-      {
-        "name": "Red",
-        "gender": "female",
-        "rating": 73.1,
-        "slope": 117,
-        "yards": 5964,
-        "par": 72,
-        "holes": [
-          {
-            "number": 1,
-            "par": 4,
-            "yards": 300
-          },
-          {
-            "number": 2,
-            "par": 5,
-            "yards": 410
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": 305
-          },
-          {
-            "number": 4,
-            "par": 5,
-            "yards": 480
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 398
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 180
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 315
-          },
-          {
-            "number": 8,
-            "par": 5,
-            "yards": 508
-          },
-          {
-            "number": 9,
-            "par": 3,
-            "yards": 120
-          },
-          {
-            "number": 10,
-            "par": 5,
-            "yards": 485
-          },
-          {
-            "number": 11,
-            "par": 4,
-            "yards": 348
-          },
-          {
-            "number": 12,
-            "par": 3,
-            "yards": 150
-          },
-          {
-            "number": 13,
-            "par": 4,
-            "yards": 375
-          },
-          {
-            "number": 14,
-            "par": 4,
-            "yards": 348
-          },
-          {
-            "number": 15,
-            "par": 3,
-            "yards": 138
-          },
-          {
-            "number": 16,
-            "par": 4,
-            "yards": 340
-          },
-          {
-            "number": 17,
-            "par": 4,
-            "yards": 350
-          },
-          {
-            "number": 18,
-            "par": 4,
-            "yards": 414
-          }
-        ]
+        ],
+        "male": {
+          "rating": 68.6,
+          "slope": 122
+        },
+        "female": {
+          "rating": 73.1,
+          "slope": 117
+        }
       }
     ]
   },
@@ -3929,9 +1913,6 @@
     "tees": [
       {
         "name": "Black",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 3466,
         "par": 36,
         "holes": [
@@ -3980,13 +1961,18 @@
             "par": 5,
             "yards": 583
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Gold",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 3252,
         "par": 36,
         "holes": [
@@ -4035,13 +2021,18 @@
             "par": 5,
             "yards": 550
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Blue",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 3017,
         "par": 36,
         "holes": [
@@ -4090,13 +2081,18 @@
             "par": 5,
             "yards": 517
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Green",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 2724,
         "par": 36,
         "holes": [
@@ -4145,13 +2141,18 @@
             "par": 5,
             "yards": 465
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "White",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 2316,
         "par": 36,
         "holes": [
@@ -4200,13 +2201,18 @@
             "par": 5,
             "yards": 420
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Friendly",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 1921,
         "par": 36,
         "holes": [
@@ -4255,7 +2261,15 @@
             "par": 5,
             "yards": 305
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -4270,9 +2284,6 @@
     "tees": [
       {
         "name": "Black",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 3586,
         "par": 36,
         "holes": [
@@ -4321,13 +2332,18 @@
             "par": 4,
             "yards": 421
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Gold",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 3383,
         "par": 36,
         "holes": [
@@ -4376,13 +2392,18 @@
             "par": 4,
             "yards": 392
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Blue",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 3116,
         "par": 36,
         "holes": [
@@ -4431,68 +2452,18 @@
             "par": 4,
             "yards": 384
           }
-        ]
-      },
-      {
-        "name": "Green",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
-        "yards": 2428,
-        "par": 36,
-        "holes": [
-          {
-            "number": 1,
-            "par": 4,
-            "yards": 270
-          },
-          {
-            "number": 2,
-            "par": 4,
-            "yards": 317
-          },
-          {
-            "number": 3,
-            "par": 5,
-            "yards": 366
-          },
-          {
-            "number": 4,
-            "par": 3,
-            "yards": 88
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 318
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 99
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 305
-          },
-          {
-            "number": 8,
-            "par": 5,
-            "yards": 376
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": 289
-          }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "White",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 2830,
         "par": 36,
         "holes": [
@@ -4541,13 +2512,78 @@
             "par": 4,
             "yards": 353
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
+      },
+      {
+        "name": "Green",
+        "yards": 2428,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 270
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 366
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 88
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 318
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 99
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 305
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 376
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 289
+          }
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Friendly",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 2008,
         "par": 36,
         "holes": [
@@ -4596,7 +2632,15 @@
             "par": 4,
             "yards": 282
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -4611,9 +2655,6 @@
     "tees": [
       {
         "name": "Black",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 3439,
         "par": 36,
         "holes": [
@@ -4662,13 +2703,18 @@
             "par": 4,
             "yards": 446
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Gold",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 3272,
         "par": 36,
         "holes": [
@@ -4717,13 +2763,18 @@
             "par": 4,
             "yards": 437
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Blue",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 3054,
         "par": 36,
         "holes": [
@@ -4772,68 +2823,18 @@
             "par": 4,
             "yards": 406
           }
-        ]
-      },
-      {
-        "name": "Green",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
-        "yards": 2445,
-        "par": 36,
-        "holes": [
-          {
-            "number": 1,
-            "par": 4,
-            "yards": 268
-          },
-          {
-            "number": 2,
-            "par": 5,
-            "yards": 442
-          },
-          {
-            "number": 3,
-            "par": 4,
-            "yards": 245
-          },
-          {
-            "number": 4,
-            "par": 3,
-            "yards": 104
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 243
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 107
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 308
-          },
-          {
-            "number": 8,
-            "par": 5,
-            "yards": 417
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": 311
-          }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "White",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 2793,
         "par": 36,
         "holes": [
@@ -4882,13 +2883,78 @@
             "par": 4,
             "yards": 373
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
+      },
+      {
+        "name": "Green",
+        "yards": 2445,
+        "par": 36,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 268
+          },
+          {
+            "number": 2,
+            "par": 5,
+            "yards": 442
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": 245
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 104
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 243
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 107
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 308
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 417
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 311
+          }
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Friendly",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 1866,
         "par": 36,
         "holes": [
@@ -4937,7 +3003,15 @@
             "par": 4,
             "yards": 255
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -4952,9 +3026,6 @@
     "tees": [
       {
         "name": "Black",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 7052,
         "par": 72,
         "holes": [
@@ -5048,13 +3119,18 @@
             "par": 4,
             "yards": 421
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Gold",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 6635,
         "par": 72,
         "holes": [
@@ -5148,13 +3224,18 @@
             "par": 4,
             "yards": 392
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Blue",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 6133,
         "par": 72,
         "holes": [
@@ -5248,13 +3329,18 @@
             "par": 4,
             "yards": 384
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Green",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 5152,
         "par": 72,
         "holes": [
@@ -5348,13 +3434,18 @@
             "par": 4,
             "yards": 289
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "White",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 5146,
         "par": 72,
         "holes": [
@@ -5448,13 +3539,18 @@
             "par": 4,
             "yards": 353
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Friendly",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 3929,
         "par": 72,
         "holes": [
@@ -5548,7 +3644,15 @@
             "par": 4,
             "yards": 282
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -5563,9 +3667,6 @@
     "tees": [
       {
         "name": "Black",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 7025,
         "par": 72,
         "holes": [
@@ -5659,13 +3760,18 @@
             "par": 4,
             "yards": 446
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Gold",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 6655,
         "par": 72,
         "holes": [
@@ -5759,13 +3865,18 @@
             "par": 4,
             "yards": 437
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Blue",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 6170,
         "par": 72,
         "holes": [
@@ -5859,113 +3970,18 @@
             "par": 4,
             "yards": 406
           }
-        ]
-      },
-      {
-        "name": "Green",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
-        "yards": 4873,
-        "par": 72,
-        "holes": [
-          {
-            "number": 1,
-            "par": 4,
-            "yards": 270
-          },
-          {
-            "number": 2,
-            "par": 4,
-            "yards": 317
-          },
-          {
-            "number": 3,
-            "par": 5,
-            "yards": 366
-          },
-          {
-            "number": 4,
-            "par": 3,
-            "yards": 88
-          },
-          {
-            "number": 5,
-            "par": 4,
-            "yards": 318
-          },
-          {
-            "number": 6,
-            "par": 3,
-            "yards": 99
-          },
-          {
-            "number": 7,
-            "par": 4,
-            "yards": 305
-          },
-          {
-            "number": 8,
-            "par": 5,
-            "yards": 376
-          },
-          {
-            "number": 9,
-            "par": 4,
-            "yards": 289
-          },
-          {
-            "number": 10,
-            "par": 4,
-            "yards": 268
-          },
-          {
-            "number": 11,
-            "par": 5,
-            "yards": 442
-          },
-          {
-            "number": 12,
-            "par": 4,
-            "yards": 245
-          },
-          {
-            "number": 13,
-            "par": 3,
-            "yards": 104
-          },
-          {
-            "number": 14,
-            "par": 4,
-            "yards": 243
-          },
-          {
-            "number": 15,
-            "par": 3,
-            "yards": 107
-          },
-          {
-            "number": 16,
-            "par": 4,
-            "yards": 308
-          },
-          {
-            "number": 17,
-            "par": 5,
-            "yards": 417
-          },
-          {
-            "number": 18,
-            "par": 4,
-            "yards": 311
-          }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "White",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 5623,
         "par": 72,
         "holes": [
@@ -6059,13 +4075,123 @@
             "par": 4,
             "yards": 373
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
+      },
+      {
+        "name": "Green",
+        "yards": 4873,
+        "par": 72,
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": 270
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": 317
+          },
+          {
+            "number": 3,
+            "par": 5,
+            "yards": 366
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": 88
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": 318
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": 99
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": 305
+          },
+          {
+            "number": 8,
+            "par": 5,
+            "yards": 376
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": 289
+          },
+          {
+            "number": 10,
+            "par": 4,
+            "yards": 268
+          },
+          {
+            "number": 11,
+            "par": 5,
+            "yards": 442
+          },
+          {
+            "number": 12,
+            "par": 4,
+            "yards": 245
+          },
+          {
+            "number": 13,
+            "par": 3,
+            "yards": 104
+          },
+          {
+            "number": 14,
+            "par": 4,
+            "yards": 243
+          },
+          {
+            "number": 15,
+            "par": 3,
+            "yards": 107
+          },
+          {
+            "number": 16,
+            "par": 4,
+            "yards": 308
+          },
+          {
+            "number": 17,
+            "par": 5,
+            "yards": 417
+          },
+          {
+            "number": 18,
+            "par": 4,
+            "yards": 311
+          }
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Friendly",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 3874,
         "par": 72,
         "holes": [
@@ -6159,7 +4285,15 @@
             "par": 4,
             "yards": 255
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   },
@@ -6174,9 +4308,6 @@
     "tees": [
       {
         "name": "Black",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 6905,
         "par": 72,
         "holes": [
@@ -6270,13 +4401,18 @@
             "par": 5,
             "yards": 583
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Gold",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 6524,
         "par": 72,
         "holes": [
@@ -6370,13 +4506,18 @@
             "par": 5,
             "yards": 550
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Blue",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 6071,
         "par": 72,
         "holes": [
@@ -6470,13 +4611,18 @@
             "par": 5,
             "yards": 517
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Green",
-        "gender": "male",
-        "rating": null,
-        "slope": null,
         "yards": 5169,
         "par": 72,
         "holes": [
@@ -6570,13 +4716,18 @@
             "par": 5,
             "yards": 465
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "White",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 5109,
         "par": 72,
         "holes": [
@@ -6670,13 +4821,18 @@
             "par": 5,
             "yards": 420
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       },
       {
         "name": "Friendly",
-        "gender": "female",
-        "rating": null,
-        "slope": null,
         "yards": 3787,
         "par": 72,
         "holes": [
@@ -6770,7 +4926,15 @@
             "par": 5,
             "yards": 305
           }
-        ]
+        ],
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        }
       }
     ]
   }

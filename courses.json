@@ -30660,5 +30660,2987 @@
         ]
       }
     ]
+  },
+  {
+    "id": "local-villages-amberwood",
+    "name": "The Villages \u2014 Amberwood",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-beautyberry",
+    "name": "The Villages \u2014 Beautyberry",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-bellaire",
+    "name": "The Villages \u2014 Bellaire",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-belmont",
+    "name": "The Villages \u2014 Belmont",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-bogart",
+    "name": "The Villages \u2014 Bogart",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-bonita-pass",
+    "name": "The Villages \u2014 Bonita Pass",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-briarwood",
+    "name": "The Villages \u2014 Briarwood",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-chula-vista",
+    "name": "The Villages \u2014 Chula Vista",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-churchill-greens",
+    "name": "The Villages \u2014 Churchill Greens",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-de-la-vista",
+    "name": "The Villages \u2014 De La Vista",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-el-diablo",
+    "name": "The Villages \u2014 El Diablo",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-el-santiago",
+    "name": "The Villages \u2014 El Santiago",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-gray-fox",
+    "name": "The Villages \u2014 Gray Fox",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-hawkes-bay",
+    "name": "The Villages \u2014 Hawkes Bay",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-heron",
+    "name": "The Villages \u2014 Heron",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-hill-top",
+    "name": "The Villages \u2014 Hill Top",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-honeysuckle",
+    "name": "The Villages \u2014 Honeysuckle",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-laurel-oak",
+    "name": "The Villages \u2014 Laurel Oak",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-loblolly",
+    "name": "The Villages \u2014 Loblolly",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-longleaf",
+    "name": "The Villages \u2014 Longleaf",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-lowlands",
+    "name": "The Villages \u2014 Lowlands",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-mangrove",
+    "name": "The Villages \u2014 Mangrove",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-mira-mesa",
+    "name": "The Villages \u2014 Mira Mesa",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-oakleigh",
+    "name": "The Villages \u2014 Oakleigh",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-okeechobee",
+    "name": "The Villages \u2014 Okeechobee",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-palmetto",
+    "name": "The Villages \u2014 Palmetto",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-pelican",
+    "name": "The Villages \u2014 Pelican",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-pimlico",
+    "name": "The Villages \u2014 Pimlico",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-red-fox",
+    "name": "The Villages \u2014 Red Fox",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-redfish-run",
+    "name": "The Villages \u2014 Redfish Run",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-roosevelt",
+    "name": "The Villages \u2014 Roosevelt",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-saddlebrook",
+    "name": "The Villages \u2014 Saddlebrook",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-sandhill",
+    "name": "The Villages \u2014 Sandhill",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-sarasota",
+    "name": "The Villages \u2014 Sarasota",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-silver-lake",
+    "name": "The Villages \u2014 Silver Lake",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 4,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-southern-star",
+    "name": "The Villages \u2014 Southern Star",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-sweet-gum",
+    "name": "The Villages \u2014 Sweet Gum",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-truman",
+    "name": "The Villages \u2014 Truman",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-turtle-mound",
+    "name": "The Villages \u2014 Turtle Mound",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-volusia",
+    "name": "The Villages \u2014 Volusia",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 28,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-walnut-grove",
+    "name": "The Villages \u2014 Walnut Grove",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 27,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "local-villages-yankee-clipper",
+    "name": "The Villages \u2014 Yankee Clipper",
+    "subtitle": "Executive Course",
+    "city": "The Villages",
+    "state": "FL",
+    "holes": 9,
+    "local": true,
+    "tees": [
+      {
+        "name": "White",
+        "yards": null,
+        "par": 29,
+        "male": {
+          "rating": null,
+          "slope": null
+        },
+        "female": {
+          "rating": null,
+          "slope": null
+        },
+        "holes": [
+          {
+            "number": 1,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 2,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 3,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 4,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 5,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 6,
+            "par": 4,
+            "yards": null
+          },
+          {
+            "number": 7,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 8,
+            "par": 3,
+            "yards": null
+          },
+          {
+            "number": 9,
+            "par": 3,
+            "yards": null
+          }
+        ]
+      }
+    ]
   }
 ]

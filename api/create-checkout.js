@@ -13,14 +13,14 @@ module.exports = async (req, res) => {
   if (req.method !== 'POST') { res.status(405).json({ error: 'Method not allowed' }); return; }
 
   try {
-    const { userId, email } = req.body;
+    const { userId, email, promoCode } = req.body;
 
     if (!userId || !email) {
       res.status(400).json({ error: 'Missing userId or email' });
       return;
     }
 
-    const session = await stripe.checkout.sessions.create({
+    const sessionParams = {
       payment_method_types: ['card'],
       line_items: [{
         price: process.env.STRIPE_PRICE_ID,
@@ -28,14 +28,20 @@ module.exports = async (req, res) => {
       }],
       mode: 'payment',
       customer_email: email,
-      client_reference_id: userId, // links payment to Supabase user
+      client_reference_id: userId,
       success_url: 'https://gooddaygolf.app?payment=success',
       cancel_url: 'https://gooddaygolf.app?payment=cancelled',
-      metadata: {
-        userId,
-        email,
-      },
-    });
+      metadata: { userId, email },
+    };
+
+    // Apply promo code if provided
+    if (promoCode) {
+      sessionParams.discounts = [{ promotion_code: promoCode }];
+    } else {
+      sessionParams.allow_promotion_codes = true; // allow manual entry at checkout
+    }
+
+    const session = await stripe.checkout.sessions.create(sessionParams);
 
     res.status(200).json({ url: session.url });
 

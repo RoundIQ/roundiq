@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — Good Day Golf</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --forest: #1a2e1a;
+    --forest-light: #2a3f2a;
+    --gold: #d4af37;
+    --gold-light: #f0c84a;
+    --cream: #f7f4ee;
+    --text-1: #1a1a1a;
+    --text-2: #3a3a3a;
+    --text-3: #666;
+    --border: rgba(0,0,0,0.08);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Outfit', sans-serif;
+    background: var(--cream);
+    color: var(--text-1);
+    line-height: 1.7;
+  }
+
+  header {
+    background: var(--forest);
+    padding: 24px 24px 28px;
+    text-align: center;
+  }
+
+  header a {
+    color: var(--gold);
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 6px;
+  }
+
+  header p {
+    color: rgba(255,255,255,0.5);
+    font-size: 12px;
+  }
+
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+
+  .page-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    color: var(--forest);
+    margin-bottom: 6px;
+  }
+
+  .effective-date {
+    font-size: 13px;
+    color: var(--text-3);
+    margin-bottom: 32px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .intro {
+    background: var(--forest);
+    color: rgba(255,255,255,0.85);
+    border-radius: 14px;
+    padding: 24px 28px;
+    margin-bottom: 40px;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  .intro strong {
+    color: var(--gold);
+  }
+
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    color: var(--forest);
+    margin: 36px 0 12px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--gold);
+    display: inline-block;
+  }
+
+  p {
+    font-size: 14px;
+    color: var(--text-2);
+    margin-bottom: 14px;
+  }
+
+  ul {
+    margin: 10px 0 16px 20px;
+    font-size: 14px;
+    color: var(--text-2);
+  }
+
+  ul li {
+    margin-bottom: 6px;
+  }
+
+  .section {
+    margin-bottom: 8px;
+  }
+
+  .contact-box {
+    background: var(--forest);
+    color: rgba(255,255,255,0.85);
+    border-radius: 14px;
+    padding: 24px 28px;
+    margin-top: 40px;
+    font-size: 14px;
+  }
+
+  .contact-box strong {
+    color: var(--gold);
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+    font-family: 'Playfair Display', serif;
+  }
+
+  .contact-box a {
+    color: var(--gold-light);
+  }
+
+  footer {
+    text-align: center;
+    padding: 24px;
+    font-size: 12px;
+    color: var(--text-3);
+    border-top: 1px solid var(--border);
+  }
+
+  footer a {
+    color: var(--forest);
+    text-decoration: none;
+    font-weight: 600;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a href="/">⛳ Good Day Golf</a>
+  <p>Any day on the course is a Good Day</p>
+</header>
+
+<div class="container">
+
+  <h1 class="page-title">Privacy Policy</h1>
+  <p class="effective-date">Effective Date: May 20, 2026</p>
+
+  <div class="intro">
+    <strong>The short version:</strong> Good Day Golf collects your email address and golf data to run the app. We use Stripe to process payments and Supabase to store your data. We don't sell your information to anyone, we don't run ads, and we never will.
+  </div>
+
+  <div class="section">
+    <h2>1. Who We Are</h2>
+    <p>Good Day Golf ("we," "us," or "our") is a golf tracking web application available at <strong>gooddaygolf.app</strong>. We are operated as a solo independent project. For privacy-related questions, contact us at <a href="mailto:roundiqgolf@gmail.com">roundiqgolf@gmail.com</a>.</p>
+  </div>
+
+  <div class="section">
+    <h2>2. Information We Collect</h2>
+    <p><strong>Information you provide directly:</strong></p>
+    <ul>
+      <li>Email address (when you create an account)</li>
+      <li>Password (stored securely and encrypted by Supabase)</li>
+      <li>Gender (used to calculate handicap accurately)</li>
+      <li>Golf round data — scores, hole stats, course information, and goals you enter</li>
+    </ul>
+    <p><strong>Information collected automatically:</strong></p>
+    <ul>
+      <li>Log and usage data (browser type, IP address, device type) collected by Supabase as part of authentication</li>
+      <li>Payment transaction records (processed by Stripe — we never see or store your card details)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>3. How We Use Your Information</h2>
+    <ul>
+      <li>To create and manage your account</li>
+      <li>To deliver the golf tracking features of the app</li>
+      <li>To process your one-time payment via Stripe</li>
+      <li>To generate personalized caddie tips and practice recommendations using AI (Anthropic/Claude)</li>
+      <li>To respond to your support inquiries</li>
+      <li>To send you important updates about the app (you can opt out at any time)</li>
+      <li>To protect the security and integrity of our service</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>4. Third-Party Services</h2>
+    <p>We share limited data with the following trusted services to operate Good Day Golf:</p>
+    <ul>
+      <li><strong>Supabase</strong> — database, authentication, and cloud storage. <a href="https://supabase.com/privacy" target="_blank">Privacy Policy</a></li>
+      <li><strong>Stripe</strong> — payment processing. We share your email with Stripe to process your purchase. We never store your card number. <a href="https://stripe.com/privacy" target="_blank">Privacy Policy</a></li>
+      <li><strong>Anthropic</strong> — AI platform powering caddie tips and practice recommendations. <a href="https://www.anthropic.com/privacy" target="_blank">Privacy Policy</a></li>
+      <li><strong>Vercel</strong> — website hosting and deployment. <a href="https://vercel.com/legal/privacy-policy" target="_blank">Privacy Policy</a></li>
+    </ul>
+    <p>We do not sell, rent, or share your personal information with advertisers or data brokers.</p>
+  </div>
+
+  <div class="section">
+    <h2>5. Data Retention</h2>
+    <p>We retain your personal information for as long as you have an active account with Good Day Golf. If you wish to delete your account and all associated data, contact us at <a href="mailto:roundiqgolf@gmail.com">roundiqgolf@gmail.com</a> and we will process your request promptly.</p>
+  </div>
+
+  <div class="section">
+    <h2>6. Your Rights</h2>
+    <p>Depending on where you live, you may have the right to:</p>
+    <ul>
+      <li>Access the personal information we hold about you</li>
+      <li>Correct inaccurate information</li>
+      <li>Request deletion of your data</li>
+      <li>Opt out of marketing communications</li>
+      <li>Lodge a complaint with your local data protection authority</li>
+    </ul>
+    <p>To exercise any of these rights, email us at <a href="mailto:roundiqgolf@gmail.com">roundiqgolf@gmail.com</a>.</p>
+  </div>
+
+  <div class="section">
+    <h2>7. AI-Powered Features</h2>
+    <p>Good Day Golf uses Anthropic's Claude AI to generate personalized caddie tips and practice recommendations based on your golf stats. Your golf data is sent to Anthropic's API to generate these insights. We do not use your data to train AI models. You can opt out of AI-powered features by contacting us.</p>
+  </div>
+
+  <div class="section">
+    <h2>8. Children's Privacy</h2>
+    <p>Good Day Golf is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided us with personal information, please contact us and we will delete it.</p>
+  </div>
+
+  <div class="section">
+    <h2>9. International Data Transfers</h2>
+    <p>Good Day Golf is operated from the United States. If you are accessing the app from the EU, UK, or other regions, your data will be transferred to and processed in the United States. Our third-party providers (Supabase, Stripe) comply with applicable data transfer frameworks including Standard Contractual Clauses.</p>
+  </div>
+
+  <div class="section">
+    <h2>10. Security</h2>
+    <p>We take reasonable measures to protect your personal information. Your password is encrypted and never stored in plain text. Payment processing is handled entirely by Stripe and your card details never touch our servers. However, no method of transmission over the internet is 100% secure.</p>
+  </div>
+
+  <div class="section">
+    <h2>11. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. When we do, we will update the effective date at the top of this page. Continued use of Good Day Golf after changes constitutes your acceptance of the updated policy.</p>
+  </div>
+
+  <div class="contact-box">
+    <strong>Questions or Requests?</strong>
+    We're happy to help with any privacy-related questions. Reach out any time at <a href="mailto:roundiqgolf@gmail.com">roundiqgolf@gmail.com</a> and we'll get back to you as soon as possible.
+  </div>
+
+</div>
+
+<footer>
+  <a href="/">← Back to Good Day Golf</a> &nbsp;·&nbsp; © 2026 Good Day Golf. All rights reserved.
+</footer>
+
+</body>
+</html>
